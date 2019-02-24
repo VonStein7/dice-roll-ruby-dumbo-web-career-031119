@@ -5,5 +5,5 @@
 def roll
   # code goes here
   range = [1..6]
-  
+  rand.range
 end
